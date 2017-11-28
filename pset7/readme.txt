@@ -1,1 +1,1 @@
-use it before configaration
+use it before configaration.
